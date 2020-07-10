@@ -9,8 +9,10 @@ _Draft Updated as of 7/10/20_
 |-----------|------------------------|----------------------------|
 | Monday (7/27) | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT)</br> |  **Kickoff Meeting** <ul><li>Ethics</li><li>Schedule</li><li>Deliverables Overview</li><li>Team Virtual Background Challenge [Prize]</li><li>Active Hacking Picture (Individual)  [Prize]</li></ul>|
 | Monday (7/27) | 6p(EST)<br>5p(CT)<br>3p(PT)</br> |  Project Introductions and Goals by the teams [Prize]|
-
-
+| Tuesday (7/28) | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT)</br> |  <ul><li>Status Checkpoint</li><li>Active Hacking Picture (Individual)  [Prize]</li></ul>|
+| Tuesday (7/28) | 6p(EST)<br>5p(CT)<br>3p(PT)</br> |  <ul><li>Status Checkpoint</li><li>TikTok Team Handoff Video Contest [Prize]</li></ul>|
+| Wednesday (7/29) | 3:00p(EST)<br>2:00p(CT)<br>12:00p(PT)</br> |  **Final Presentations** <ul><li>People's Choice Award Opens</ul></li>|
+| Thursday (7/30) | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT)</br> |  **Awards Ceremony**|
 
 ### Resources
 
