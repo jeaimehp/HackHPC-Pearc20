@@ -33,6 +33,6 @@ _Draft Updated as of 7/10/20_
 | HackHPC| HackHPC | [SCHack@hackhpc.org](mailto:SCHack@hackhpc.org?subject=[hpchackatpearc20]) |
 
 ### Resources
-- Hack HPC Site: [hackhpc.org/](http://hackhpc.org/)
+- Hack HPC Site: [hackhpc.org](http://hackhpc.org/)
 - SGCI URL: [sciencegateways.org/engage/hackathon](https://sciencegateways.org/engage/hackathon) 
 
