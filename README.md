@@ -15,8 +15,8 @@ _Draft Updated as of 7/10/20_
 | Thursday (7/30) | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT)</br> |  **Awards Ceremony**|
 
 ## Communication Platforms
-- Twitter: https://twitter.com/ccloudhack or @ccloudhack
-- Slack: https://cloudhpchack.slack.com 
+- Twitter: [twitter.com/ccloudhack](https://twitter.com/ccloudhack) or @ccloudhack
+- Slack: [cloudhpchack.slack.com](https://cloudhpchack.slack.com) 
 
 
 ## Mentors and Projects
@@ -33,6 +33,6 @@ _Draft Updated as of 7/10/20_
 | HackHPC| HackHPC | [SCHack@hackhpc.org](mailto:SCHack@hackhpc.org?subject=[hpchackatpearc20]) |
 
 ### Resources
-- Hack HPC Site: http://hackhpc.org/
-- SGCI URL: https://sciencegateways.org/engage/hackathon 
+- Hack HPC Site: [hackhpc.org/](http://hackhpc.org/)
+- SGCI URL: [sciencegateways.org/engage/hackathon](https://sciencegateways.org/engage/hackathon) 
 
