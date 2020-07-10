@@ -7,11 +7,9 @@ _Draft Updated as of 7/10/20_
 
 | Day | Time | Activies |
 |-----------|------------------------|----------------------------|
-| Monday (7/27) | 1:00pEST<br>12:00pCT<br>10:00aPT</br> |  **Kickoff Meeting** <ul><li>Ethics</li><li>Schedule</li><li>Deliverables Overview</li><li>Team Virtual Background Challenge [Prize]</li><li>Active Hacking Picture (Individual)  [Prize]</li></ul>
+| Monday (7/27) | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT)</br> |  **Kickoff Meeting** <ul><li>Ethics</li><li>Schedule</li><li>Deliverables Overview</li><li>Team Virtual Background Challenge [Prize]</li><li>Active Hacking Picture (Individual)  [Prize]</li></ul>
 |
-| Monday (7/27) | 6pEST/5pCT/3pPT |  
-- Project Introductions and Goals by the teams [Prize]
-|
+| Monday (7/27) | 6p(EST)<br>5p(CT)<br>3p(PT)</br> |  Project Introductions and Goals by the teams [Prize]|
 
 
 
