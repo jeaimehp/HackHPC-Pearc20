@@ -27,7 +27,7 @@ _Draft Updated as of 7/10/20_
 ## Organizer Contact Information
 |Name|Affiliation|Contact Information|
 |-----------------------|------------------------|----------------------------|
-| | | |
+| HackHPC| HackHPC| [SCHack@hackhpc.org](mailto:SCHack@hackhpc.org?subject=[hpchackatpearc20]) |
 
 ### Resources
 - Hack HPC Site: http://hackhpc.org/
