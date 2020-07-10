@@ -1,4 +1,4 @@
-## Welcome to the HackHPC@PEARC20 Event Site
+## HackHPC@PEARC20 Event Site
 
 This site will contain the latest information regarding the event to be held July 27th-30th.
 
