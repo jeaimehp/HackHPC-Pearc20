@@ -14,6 +14,22 @@ _Draft Updated as of 7/10/20_
 | Wednesday (7/29) | 3:00p(EST)<br>2:00p(CT)<br>12:00p(PT)</br> |  **Final Presentations** <ul><li>People's Choice Award Opens</ul></li>|
 | Thursday (7/30) | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT)</br> |  **Awards Ceremony**|
 
-### Resources
+## Communication Platforms
+- Twitter: https://twitter.com/ccloudhack or @ccloudhack
+- Slack: https://cloudhpchack.slack.com 
 
+
+## Mentors and Projects
+|Mentor Name| Contact Information|Project Description|
+|-----------------------|------------------------|----------------------------|
+| | | |
+
+## Organizer Contact Information
+|Name|Affiliation|Contact Information|
+|-----------------------|------------------------|----------------------------|
+| | | |
+
+### Resources
+- Hack HPC Site: http://hackhpc.org/
+- SGCI URL: https://sciencegateways.org/engage/hackathon 
 
