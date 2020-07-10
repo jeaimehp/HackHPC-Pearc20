@@ -20,14 +20,14 @@ _Draft Updated as of 7/10/20_
 
 
 ## Mentors and Projects
-|Mentor Name| Contact Information|Project Description|
+| Mentor Name | Contact Information | Project Description |
 |-----------------------|------------------------|----------------------------|
-| | | |
+| Comming Soon | TBD | TBD |
 
 ## Organizer Contact Information
-|Name|Affiliation|Contact Information|
+| Name | Affiliation | Contact Information |
 |-----------------------|------------------------|----------------------------|
-| HackHPC| HackHPC| [SCHack@hackhpc.org](mailto:SCHack@hackhpc.org?subject=[hpchackatpearc20]) |
+| HackHPC| HackHPC | [SCHack@hackhpc.org](mailto:SCHack@hackhpc.org?subject=[hpchackatpearc20]) |
 
 ### Resources
 - Hack HPC Site: http://hackhpc.org/
