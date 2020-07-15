@@ -3,7 +3,12 @@
 This site will contain the latest information regarding the event to be held July 27th-30th.
 
 ## Schedule of events
-_Draft Updated as of 7/10/20_
+_Draft Updated as of 7/15/20_
+
+- **Mentor Pre-event Prep call** 7/21/20 @ 11:00am(EST)/10:00am(CST)/8:00am(PST)
+- **Pre-event Overview call** 7/23/20 @ 11:00am(EST)/10:00am(CST)/8:00am(PST)
+
+
 
 | Day | Time | Activies |
 |-----------|------------------------|----------------------------|
