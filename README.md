@@ -10,7 +10,7 @@ _Draft Updated as of 7/15/20_
 
 
 
-| Day | Time | Activies |
+| Day | Time | Activities |
 |-----------|------------------------|----------------------------|
 | Monday (7/27) | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT) |  **Kickoff Meeting** <br> - Ethics <br> - Schedule <br> - Deliverables Overview <br> - Team Virtual Background Challenge [Prize] <br> - Active Hacking Picture (Individual)  [Prize] |
 | Monday (7/27) | 6p(EST)<br>5p(CT)<br>3p(PT)</br> |  Project Introductions and Goals by the teams [Prize]|
