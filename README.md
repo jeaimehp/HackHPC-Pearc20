@@ -2,6 +2,14 @@
 
 This site will contain the latest information regarding the event to be held July 27th-30th.
 
+**Thank you to this years sponsors!**
+- [Omnibond](http://www.omnibond.com/)
+- [Intel] (http://www.intel.com)
+- [Intel] (http://www.google.com)
+- [The Texas Advanced Computing Center](http://tacc.utexas.edu)
+- [Science Gateways Community Institute](https://sciencegateways.org/)
+
+
 ## Schedule of events
 _Draft Updated as of 7/15/20_
 
