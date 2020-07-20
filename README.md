@@ -38,6 +38,8 @@ _Draft Updated as of 7/15/20_
 
 | Name | Affiliation | Contact Information | Social Media
 |-----------------------|------------------------|----------------------------|----------------------------|
+| Amy Cannon| [Omnibond]( http://www.omnibond.com/)
+| [amycannon@omnibond.com](mailto: amycannon@omnibond.com?subject=[hpchackatpearc20]) | [![LinkedIn](linkedinicon.jpeg)]( https://www.linkedin.com/in/amy-cannon-46230b31/) |
 | Je'aime Powell | [Texas Advanced Computing Center](https://www.tacc.utexas.edu/) | [jpowell@tacc.utexas.edu](mailto:jpowell@tacc.utexas.edu?subject=[hpchackatpearc20]) | [![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/jeaimehp/) [![Twitter](twittericon.png)](https://twitter.com/jeaimehp) |
 
 
