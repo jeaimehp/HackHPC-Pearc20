@@ -38,7 +38,7 @@ _Draft Updated as of 7/15/20_
 
 | Name | Affiliation | Contact Information | Social Media
 |-----------------------|------------------------|----------------------------|----------------------------|
-| Je'aime Powell | [Texas Advanced Computing Center](https://www.tacc.utexas.edu/) | [jpowell@tacc.utexas.edu](mailto:jpowell@tacc.utexas.edu?subject=[hpchackatpearc20]) | [![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/jeaimehp/),[![Twitter](twittericon.png](https://twitter.com/jeaimehp) |
+| Je'aime Powell | [Texas Advanced Computing Center](https://www.tacc.utexas.edu/) | [jpowell@tacc.utexas.edu](mailto:jpowell@tacc.utexas.edu?subject=[hpchackatpearc20]) | [![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/jeaimehp/),[![Twitter](twittericon.png)](https://twitter.com/jeaimehp) |
 
 
 ### Resources
