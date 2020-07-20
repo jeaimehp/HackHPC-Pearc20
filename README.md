@@ -37,7 +37,7 @@ _Draft Updated as of 7/15/20_
 ## Organizer Contact Information
 
 | Name | Affiliation | Contact Information | Social Media
-|-----------------------|------------------------|----------------------------|
+|-----------------------|------------------------|----------------------------|----------------------------|
 | Je'aime Powell | [Texas Advanced Computing Center](https://www.tacc.utexas.edu/) | [jpowell@tacc.utexas.edu](mailto:jpowell@tacc.utexas.edu?subject=[hpchackatpearc20]) | [LinkedIn](https://www.linkedin.com/in/jeaimehp/),[Twitter](https://twitter.com/jeaimehp) |
 
 
