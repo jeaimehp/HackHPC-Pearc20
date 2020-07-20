@@ -23,6 +23,9 @@ _Draft Updated as of 7/15/20_
 - Twitter: [twitter.com/ccloudhack](https://twitter.com/ccloudhack) or @ccloudhack
 - Slack: [cloudhpchack.slack.com](https://cloudhpchack.slack.com) 
 
+## Tutorials and Videos
+- [CloudyCluster v3 GCP Control Instance & HPC Environment Launch](https://www.youtube.com/watch?v=apTvSUq6Fe4) - https://www.youtube.com/watch?v=apTvSUq6Fe4
+- [CloudyCluster v3 GCP Slurm mpi prime jobs demo](https://www.youtube.com/watch?v=qg1WYYpvxic) - https://www.youtube.com/watch?v=qg1WYYpvxic
 
 ## Mentors and Projects
 
@@ -33,11 +36,13 @@ _Draft Updated as of 7/15/20_
 
 ## Organizer Contact Information
 
-| Name | Affiliation | Contact Information |
+| Name | Affiliation | Contact Information | Social Media
 |-----------------------|------------------------|----------------------------|
-| HackHPC| HackHPC | [SCHack@hackhpc.org](mailto:SCHack@hackhpc.org?subject=[hpchackatpearc20]) |
+| Je'aime Powell | [Texas Advanced Computing Center](https://www.tacc.utexas.edu/) | [jpowell@tacc.utexas.edu](mailto:jpowell@tacc.utexas.edu?subject=[hpchackatpearc20]) | [LinkedIn](https://www.linkedin.com/in/jeaimehp/),[Twitter](https://twitter.com/jeaimehp) |
+
 
 ### Resources
 - Hack HPC Site: [hackhpc.org](http://hackhpc.org/)
 - SGCI URL: [sciencegateways.org/engage/hackathon](https://sciencegateways.org/engage/hackathon) 
+ 
 
