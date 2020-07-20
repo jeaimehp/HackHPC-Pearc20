@@ -42,7 +42,7 @@ _Draft Updated as of 7/15/20_
 | Amy Cannon| [Omnibond]( http://www.omnibond.com/)| [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[hpchackatpearc20]) | [![LinkedIn](linkedinicon.jpeg)]( https://www.linkedin.com/in/amy-cannon-46230b31/) |
 | Boyd Wilson| [Omnibond]( http://www.omnibond.com/)| [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[hpchackatpearc20]) | [![LinkedIn](linkedinicon.jpeg)]( https://www.linkedin.com/in/boydwilson/) |
 | Je'aime Powell | [Texas Advanced Computing Center](https://www.tacc.utexas.edu/) | [jpowell@tacc.utexas.edu](mailto:jpowell@tacc.utexas.edu?subject=[hpchackatpearc20]) | [![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/jeaimehp/) [![Twitter](twittericon.png)](https://twitter.com/jeaimehp) |
-| Dr. Linda Hayden | [Elizabeth City State University](https://nia.ecsu.edu/) | [haydenl@mindspring.com](mailto: haydenl@mindspring.com?subject=[hpchackatpearc20]) | [![LinkedIn](linkedinicon.jpeg)]( https://www.linkedin.com/in/linda-hayden-5a8b424/) |
+| Dr. Linda Hayden | [Elizabeth City State University](https://nia.ecsu.edu/) | [haydenl@mindspring.com](mailto:haydenl@mindspring.com?subject=[hpchackatpearc20]) | [![LinkedIn](linkedinicon.jpeg)]( https://www.linkedin.com/in/linda-hayden-5a8b424/) |
 
 
 ### Resources
