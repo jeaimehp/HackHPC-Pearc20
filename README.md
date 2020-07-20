@@ -4,8 +4,8 @@ This site will contain the latest information regarding the event to be held Jul
 
 **Thank you to this years sponsors!**
 - [Omnibond](http://www.omnibond.com/)
-- [Intel] (http://www.intel.com)
-- [Intel] (http://www.google.com)
+- [Intel](http://www.intel.com)
+- [Google](http://www.google.com)
 - [The Texas Advanced Computing Center](http://tacc.utexas.edu)
 - [Science Gateways Community Institute](https://sciencegateways.org/)
 
