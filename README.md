@@ -28,7 +28,7 @@ _Draft Updated as of 7/15/20_
 
 | Mentor Name | Contact Information | Project Description |
 |-----------------------|------------------------|----------------------------|
-| Comming Soon | TBD | TBD |
+| Coming Soon | TBD | TBD |
 
 
 ## Organizer Contact Information
