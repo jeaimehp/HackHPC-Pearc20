@@ -14,6 +14,7 @@ This site will contain the latest information regarding the event to be held Jul
 _Draft Updated as of 7/15/20_
 
 - **Mentor Pre-event Prep call** 7/21/20 @ 11:00am(EST)/10:00am(CST)/8:00am(PST)
+-- [Meeting Slides](pdfs/Mentor-HackHPC-Overview.pdf)
 - **Pre-event Overview call** 7/23/20 @ 11:00am(EST)/10:00am(CST)/8:00am(PST)
 
 
