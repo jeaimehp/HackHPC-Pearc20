@@ -55,8 +55,9 @@ _Draft Updated as of 7/23/20_
   - [https://www.youtube.com/watch?v=apTvSUq6Fe4](https://www.youtube.com/watch?v=apTvSUq6Fe4)
 - CloudyCluster v3 GCP Slurm mpi prime jobs demo 
   - [https://www.youtube.com/watch?v=qg1WYYpvxic](https://www.youtube.com/watch?v=qg1WYYpvxic)
-- Google Cloud Platform Training (For credits please contact please contact [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[hpchackatpearc20]- GCP Credits), [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[hpchackatpearc20]- GCP Credits) or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[hpchackatpearc20]- GCP Credits))
+- Google Cloud Platform Training 
   - [https://cloud.google.com/training](https://cloud.google.com/training)
+  - For credits please contact please contact [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[hpchackatpearc20]GCP Credits Request) [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[hpchackatpearc20]GCP Credits Request) or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[hpchackatpearc20]GCP Credits Request)
 
 ## Mentor Contact Information
 
