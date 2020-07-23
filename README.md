@@ -33,8 +33,9 @@ _Draft Updated as of 7/15/20_
 | Thursday (7/30) | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT) |  **Awards Ceremony**|
 
 ## Communication Platforms
-- Twitter: [twitter.com/ccloudhack](https://twitter.com/ccloudhack) or @ccloudhack
-- Slack: [cloudhpchack.slack.com](https://cloudhpchack.slack.com) 
+- Twitter: [twitter.com/ccloudhack](https://twitter.com/ccloudhack)
+- Slack: [cloudhpchack.slack.com](https://cloudhpchack.slack.com)
+- Zoom Session Links (Hackathon): [https://www.brella.io](https://www.brella.io)
 
 ## Deliverables
 **Posted to Slack PEARC20-General Channel before Presentations**
