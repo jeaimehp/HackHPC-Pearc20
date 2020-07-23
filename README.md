@@ -4,17 +4,14 @@ This site will contain the latest information regarding the event to be held Jul
 
 <p align="center">
   <b>**Thank you to this years sponsors!**</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
+  <a href="http://www.omnibond.com/">Omnibond</a> |
+  <a href="http://www.intel.com">Intel</a> |
+  <a href="https://cloud.google.com/">Google</a> |
+  <a href="http://tacc.utexas.edu">The Texas Advanced Computing Center</a> |
+  <a href="https://sciencegateways.org/">Science Gateways Community Institute</a> 
   <br><br>
   <img src="images/HackHPC-PEARC20-Sponsors.png">
 </p>
-
-
-
-![](images/HackHPC-PEARC20-Sponsors.png)<br>
- [Omnibond](http://www.omnibond.com/) - [Intel](http://www.intel.com) - [Google](http://www.google.com) - [The Texas Advanced Computing Center](http://tacc.utexas.edu) - [Science Gateways Community Institute](https://sciencegateways.org/)
 
 
 ## Schedule of events
