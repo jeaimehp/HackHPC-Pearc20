@@ -21,8 +21,8 @@ _Draft Updated as of 7/23/20_
 - **Pre-event Overview call** 7/23/20 @ 11:00am(EST)/10:00am(CST)/8:00am(PST)
   - [Meeting Slides](pdfs/Student-HackHPC-Overview.pdf)
   - [Meeting Video](https://youtu.be/x3frTEbp-ZA)
-  - Links and Resources Mentioned
-     - For access to the Google Cloud credits please contact [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[hpchackatpearc20]GCP Credits Request) , [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[hpchackatpearc20]- GCP Credits Request), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[hpchackatpearc20]- GCP Credits Request)
+  - **Links and Resources Mentioned**
+     - For access to the _Google Cloud credits_ please contact [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[hpchackatpearc20]GCP Credits Request) , [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[hpchackatpearc20]- GCP Credits Request), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[hpchackatpearc20]- GCP Credits Request)
      - [delta-topology.org](delta-topology.org)
      - [covid-19.tacc.utexas.edu/projections/](https://covid-19.tacc.utexas.edu/projections/)
        - [DASH Plotly Intro Video](https://youtu.be/e4ti2fCpXMI)
