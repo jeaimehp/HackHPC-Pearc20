@@ -71,7 +71,14 @@ PDF of presentation
 
 
 ### Resources
-- Hack HPC Site: [hackhpc.org](http://hackhpc.org/)
-- SGCI URL: [sciencegateways.org/engage/hackathon](https://sciencegateways.org/engage/hackathon) 
+- Code of Ethics: [https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct](https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct)
+- Hack HPC Site: [http://hackhpc.org](http://hackhpc.org)
+- PEARC20 HackHPC Site: [https://jeaimehp.github.io/HackHPC-Pearc20](https://jeaimehp.github.io/HackHPC-Pearc20)
+- PEARC20 Conference Site: [https://pearc.acm.org/pearc20/](https://pearc.acm.org/pearc20/)
+- PEARC20 Zoom Session Links (Hackathon): [https://www.brella.io](https://www.brella.io)
+- SGCI URL: [http://sciencegateways.org/engage/hackathon](http://sciencegateways.org/engage/hackathon)
+- Hackathon Planning Kit: [https://hackathon-planning-kit.org/](https://hackathon-planning-kit.org/)
+- Google Cloud Platform Training: [https://cloud.google.com/training](https://cloud.google.com/training)
+
  
 
