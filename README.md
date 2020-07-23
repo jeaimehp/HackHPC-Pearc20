@@ -27,7 +27,7 @@ _Draft Updated as of 7/23/20_
 |-----------|------------------------|----------------------------|
 | Monday (7/27) | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT) |  **Kickoff Meeting** <br> - Ethics <br> - Schedule <br> - Deliverables Overview <br> - Active Hacking Picture (Individual)  [Prize] |
 | Monday (7/27) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  - Project Introductions and Goals by the teams [Prize] <br> - Team Virtual Background Challenge [Prize] |
-| Tuesday (7/28) | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT) | - Status Checkpoint <br> - Active Hacking Picture (Individual)  [Prize] |
+| Tuesday (7/28) | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT) | - Status Checkpoint <br> - Lego@HackHPC Picture (Individual)  [Prize] |
 | Tuesday (7/28) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) | - Status Checkpoint <br> - TBD Contest [Prize] |
 | Wednesday (7/29) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  **Final Presentations** <br> - People's Choice Award Opens |
 | Thursday (7/30) | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT) |  **Awards Ceremony**|
