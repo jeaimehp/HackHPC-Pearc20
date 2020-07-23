@@ -2,9 +2,9 @@
 
 This site will contain the latest information regarding the event to be held July 27th-30th.
 
-| **Thank you to this years sponsors!** |  |
-|--------------------------------------------|-----------------------------------------------|
-| ![Sponsor Logos](images/HackHPC-PEARC20-Sponsors.png) | - [Omnibond](http://www.omnibond.com/)<br>- [Intel](http://www.intel.com)<br>- [Google](http://www.google.com)<br>- [The Texas Advanced Computing Center](http://tacc.utexas.edu)<br>- [Science Gateways Community Institute](https://sciencegateways.org/) {: style="float: top"}|
+
+![](images/HackHPC-PEARC20-Sponsors.png)
+**Thank you to this years sponsors!** <br>- [Omnibond](http://www.omnibond.com/)<br>- [Intel](http://www.intel.com)<br>- [Google](http://www.google.com)<br>- [The Texas Advanced Computing Center](http://tacc.utexas.edu)<br>- [Science Gateways Community Institute](https://sciencegateways.org/)
 
 
 ## Schedule of events
