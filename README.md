@@ -8,8 +8,8 @@ This site will contain the latest information regarding the event to be held Jul
   <a href="http://www.omnibond.com/">Omnibond</a> |
   <a href="http://www.intel.com">Intel</a> |
   <a href="https://cloud.google.com/">Google</a> |
-  <a href="http://tacc.utexas.edu">The Texas Advanced Computing Center</a> |
-  <a href="https://sciencegateways.org/">Science Gateways Community Institute</a> 
+  <a href="http://tacc.utexas.edu">TACC</a> |
+  <a href="https://sciencegateways.org/">SGCI</a> 
 </p>
 
 ## Schedule of events
