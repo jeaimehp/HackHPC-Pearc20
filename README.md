@@ -57,7 +57,7 @@ _Draft Updated as of 7/23/20_
   - [https://www.youtube.com/watch?v=qg1WYYpvxic](https://www.youtube.com/watch?v=qg1WYYpvxic)
 - Google Cloud Platform Training 
   - [https://cloud.google.com/training](https://cloud.google.com/training)
-  - For access to the Google Cloud credits please contact please contact [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[hpchackatpearc20]GCP Credits Request) , [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[hpchackatpearc20]- GCP Credits Request), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[hpchackatpearc20]- GCP Credits Request) 
+  - For access to the Google Cloud credits please contact [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[hpchackatpearc20]GCP Credits Request) , [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[hpchackatpearc20]- GCP Credits Request), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[hpchackatpearc20]- GCP Credits Request) 
 
 ## Mentor Contact Information
 
@@ -90,7 +90,7 @@ _Draft Updated as of 7/23/20_
 - PEARC20 Zoom Session Links (Hackathon): [https://www.brella.io](https://www.brella.io)
 - SGCI URL: [http://sciencegateways.org/engage/hackathon](http://sciencegateways.org/engage/hackathon)
 - Hackathon Planning Kit: [https://hackathon-planning-kit.org/](https://hackathon-planning-kit.org/)
-- For access to the Google Cloud credits please contact please contact [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[hpchackatpearc20]GCP Credits Request) , [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[hpchackatpearc20]- GCP Credits Request), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[hpchackatpearc20]- GCP Credits Request)  
+- For access to the Google Cloud credits please contact [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[hpchackatpearc20]GCP Credits Request) , [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[hpchackatpearc20]- GCP Credits Request), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[hpchackatpearc20]- GCP Credits Request)  
 
 
  
