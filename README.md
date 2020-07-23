@@ -39,7 +39,7 @@ _Draft Updated as of 7/15/20_
 
 ## Deliverables
 **Posted to Slack PEARC20-General Channel before Presentations**
-<br><font color='green'><i>Due Wednesday 7/21 by 6:00p(EST)/5:00p(CT)/3:00p(PT)</i></font>
+<br><i><font color='red'>Due Wednesday 7/21 by 6:00p(EST)/5:00p(CT)/3:00p(PT)</font></i>
 <br>_*NOTE: If not posted by due date and time 20pt automatic deduction from final judging score._
 
 **Github Repository Link Posted to Slack #PEARC20-General Channel** 
