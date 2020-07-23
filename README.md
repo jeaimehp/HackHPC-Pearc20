@@ -3,7 +3,7 @@
 This site will contain the latest information regarding the event to be held July 27th-30th.
 
 <p align="center">
-  <b> **Thank you to this years sponsors!** </b><br>
+  <b>Thank you to this years sponsors!</b><br>
   <img src="images/HackHPC-PEARC20-Sponsors.png"><br>
   <a href="http://www.omnibond.com/">Omnibond</a> |
   <a href="http://www.intel.com">Intel</a> |
