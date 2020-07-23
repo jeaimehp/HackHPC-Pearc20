@@ -31,7 +31,7 @@ _Draft Updated as of 7/23/20_
      - For access to the _Google Cloud credits_ please contact [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[hpchackatpearc20]GCP Credits Request) , [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[hpchackatpearc20]- GCP Credits Request), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[hpchackatpearc20]- GCP Credits Request)
      - [delta-topology.org](delta-topology.org)
      - [covid-19.tacc.utexas.edu/projections/](https://covid-19.tacc.utexas.edu/projections/)
-     - [GitHub.com](GitHub.com)
+     - [GitHub.com](https://github.com/)
      - [Previous HackHPC Projects](http://hackhpc.org/pasthacks)
 
 
