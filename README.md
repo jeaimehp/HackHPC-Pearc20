@@ -12,6 +12,11 @@ This site will contain the latest information regarding the event to be held Jul
   <a href="https://sciencegateways.org/">SGCI</a> 
 </p>
 
+## Code of Conduct
+- [https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct](https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct)
+  - [Video Presentation](https://youtu.be/4P8sEZDsKaQ)
+  - [Organizing Committe Contact Information][1]
+
 ## Schedule of Events
 _Draft Updated as of 7/23/20_
 
@@ -25,11 +30,7 @@ _Draft Updated as of 7/23/20_
      - For access to the _Google Cloud credits_ please contact [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[hpchackatpearc20]GCP Credits Request) , [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[hpchackatpearc20]- GCP Credits Request), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[hpchackatpearc20]- GCP Credits Request)
      - [delta-topology.org](delta-topology.org)
      - [covid-19.tacc.utexas.edu/projections/](https://covid-19.tacc.utexas.edu/projections/)
-       - [DASH Plotly Intro Video](https://youtu.be/e4ti2fCpXMI)
      - [GitHub.com](GitHub.com)
-       - [GitHub Intro Video](https://youtu.be/BCQHnlnPusY)
-       - [GitHub Markdown (README.md) Formatting Intro Video](https://youtu.be/RZ5vduluea4)
-     - [Jupyter Notebooks Intro Video](https://youtu.be/3C9E2yPBw7s)
      - [Previous HackHPC Projects](http://hackhpc.org/pasthacks)
 
 
@@ -66,6 +67,11 @@ _Draft Updated as of 7/23/20_
   - [https://www.youtube.com/watch?v=apTvSUq6Fe4](https://www.youtube.com/watch?v=apTvSUq6Fe4)
 - CloudyCluster v3 GCP Slurm mpi prime jobs demo 
   - [https://www.youtube.com/watch?v=qg1WYYpvxic](https://www.youtube.com/watch?v=qg1WYYpvxic)
+- [DASH Plotly Intro Video](https://youtu.be/e4ti2fCpXMI)
+- [GitHub Intro Video](https://youtu.be/BCQHnlnPusY)
+- [GitHub Markdown (README.md) Formatting Intro Video](https://youtu.be/RZ5vduluea4)
+- [Jupyter Notebooks Intro Video](https://youtu.be/3C9E2yPBw7s)
+- [Previous HackHPC Projects](http://hackhpc.org/pasthacks)
 - Google Cloud Platform Training 
   - [https://cloud.google.com/training](https://cloud.google.com/training)
   - For access to the Google Cloud credits please contact [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[hpchackatpearc20]GCP Credits Request) , [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[hpchackatpearc20]- GCP Credits Request), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[hpchackatpearc20]- GCP Credits Request) 
@@ -82,7 +88,7 @@ _Draft Updated as of 7/23/20_
 | Joon Yee Chuah | [TACC](http://www.tacc.utexas.edu/) | [jchuah@tacc.utexas.edu](mailto:jchuah@tacc.utexas.edu?subject=[hpchackatpearc20]) <br>[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/jychuah/)[![Github](githubicon.png)](https://github.com/jchuahtacc) |
 | Sudhakar Pamidighantam | [IU](https://www.chem.indiana.edu/) | [s.pamidighantam@gmail.com](mailto:s.pamidighantam@gmail.com?subject=[hpchackatpearc20]) <br>[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/sudhakar-pamidighantam-0074a77/)[![Github](githubicon.png)](https://github.com/spamidig) |
 
-## Organizer Contact Information
+## Organizers Contact Information [1]
 
 | Name | Affiliation | Contact Information | Social Media
 |-----------------------|--------------|----------------------------|----------------------------|
@@ -94,14 +100,19 @@ _Draft Updated as of 7/23/20_
 
 
 ## Resources
-- Code of Ethics: [https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct](https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct)
+- Code of Conduct: [https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct](https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct)
+  - [Video](https://youtu.be/4P8sEZDsKaQ)
 - Hack HPC Site: [http://hackhpc.org](http://hackhpc.org)
 - PEARC20 HackHPC Site: [https://jeaimehp.github.io/HackHPC-Pearc20](https://jeaimehp.github.io/HackHPC-Pearc20)
 - PEARC20 Conference Site: [https://pearc.acm.org/pearc20/](https://pearc.acm.org/pearc20/)
 - PEARC20 Zoom Session Links (Hackathon): [https://www.brella.io](https://www.brella.io)
 - SGCI URL: [http://sciencegateways.org/engage/hackathon](http://sciencegateways.org/engage/hackathon)
 - Hackathon Planning Kit: [https://hackathon-planning-kit.org/](https://hackathon-planning-kit.org/)
-- For access to the Google Cloud credits please contact [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[hpchackatpearc20]GCP Credits Request) , [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[hpchackatpearc20]- GCP Credits Request), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[hpchackatpearc20]- GCP Credits Request)  
+- For access to the Google Cloud credits please contact [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[hpchackatpearc20]GCP Credits Request) , [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[hpchackatpearc20]- GCP Credits Request), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[hpchackatpearc20]- GCP Credits Request)
+- [delta-topology.org](delta-topology.org)
+- [covid-19.tacc.utexas.edu/projections/](https://covid-19.tacc.utexas.edu/projections/)
+- [GitHub.com](GitHub.com)
+
 
 
  
