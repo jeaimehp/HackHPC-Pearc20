@@ -51,6 +51,7 @@ PDF of presentation
 ## Tutorials and Videos
 - [CloudyCluster v3 GCP Control Instance & HPC Environment Launch](https://www.youtube.com/watch?v=apTvSUq6Fe4) - https://www.youtube.com/watch?v=apTvSUq6Fe4
 - [CloudyCluster v3 GCP Slurm mpi prime jobs demo](https://www.youtube.com/watch?v=qg1WYYpvxic) - https://www.youtube.com/watch?v=qg1WYYpvxic
+- Google Cloud Platform Training: [https://cloud.google.com/training](https://cloud.google.com/training)
 
 ## Mentors and Projects
 
@@ -78,7 +79,7 @@ PDF of presentation
 - PEARC20 Zoom Session Links (Hackathon): [https://www.brella.io](https://www.brella.io)
 - SGCI URL: [http://sciencegateways.org/engage/hackathon](http://sciencegateways.org/engage/hackathon)
 - Hackathon Planning Kit: [https://hackathon-planning-kit.org/](https://hackathon-planning-kit.org/)
-- Google Cloud Platform Training: [https://cloud.google.com/training](https://cloud.google.com/training)
+
 
  
 
