@@ -15,7 +15,7 @@ This site will contain the latest information regarding the event to be held Jul
 ## Code of Conduct
 - [https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct](https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct)
   - [Video Presentation](https://youtu.be/4P8sEZDsKaQ)
-  - [Organizing Committe Contact Information][1]
+  - [Organizing Committe Contact Information](#organizers-contact-information)
 
 ## Schedule of Events
 _Draft Updated as of 7/23/20_
@@ -88,7 +88,7 @@ _Draft Updated as of 7/23/20_
 | Joon Yee Chuah | [TACC](http://www.tacc.utexas.edu/) | [jchuah@tacc.utexas.edu](mailto:jchuah@tacc.utexas.edu?subject=[hpchackatpearc20]) <br>[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/jychuah/)[![Github](githubicon.png)](https://github.com/jchuahtacc) |
 | Sudhakar Pamidighantam | [IU](https://www.chem.indiana.edu/) | [s.pamidighantam@gmail.com](mailto:s.pamidighantam@gmail.com?subject=[hpchackatpearc20]) <br>[![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/sudhakar-pamidighantam-0074a77/)[![Github](githubicon.png)](https://github.com/spamidig) |
 
-## Organizers Contact Information [1]
+## Organizers Contact Information
 
 | Name | Affiliation | Contact Information | Social Media
 |-----------------------|--------------|----------------------------|----------------------------|
