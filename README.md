@@ -89,7 +89,7 @@ _Draft Updated as of 7/23/20_
 - PEARC20 Zoom Session Links (Hackathon): [https://www.brella.io](https://www.brella.io)
 - SGCI URL: [http://sciencegateways.org/engage/hackathon](http://sciencegateways.org/engage/hackathon)
 - Hackathon Planning Kit: [https://hackathon-planning-kit.org/](https://hackathon-planning-kit.org/)
-- For access to the Google Cloud credits please contact please contact [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[hpchackatpearc20]- GCP Credits), [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[hpchackatpearc20]- GCP Credits) or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[hpchackatpearc20]- GCP Credits)  
+- For access to the Google Cloud credits please contact please contact [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[hpchackatpearc20]GCP Credits)  [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[hpchackatpearc20]- GCP Credits) or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[hpchackatpearc20]- GCP Credits)  
 
 
  
