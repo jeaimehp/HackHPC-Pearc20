@@ -34,7 +34,7 @@ _Draft Updated as of 7/15/20_
 - Slack: [cloudhpchack.slack.com](https://cloudhpchack.slack.com) 
 
 ## Deliverables
-**Posted to Slack PEARC20-General Channel before Presentations)**
+**Posted to Slack PEARC20-General Channel before Presentations**
 <br>_Due Wednesday 7/21 by 6:00p(EST)/5:00p(CT)/3:00p(PT)_
 <br>_*NOTE: If not posted by due date and time 20pt automatic deduction from final judging score._
 
