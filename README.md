@@ -61,7 +61,7 @@ PDF of presentation
 ## Mentor Contact Information
 
 | Name | Affiliation | Contact Information | Social Media
-|-----------------------|--------------|--------------------------|-----------------------------|
+|---------------------|--------------|--------------------------|-----------------------------|
 | Boyd Wilson | [Omnibond]( http://www.omnibond.com/)| [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[hpchackatpearc20]) | [![LinkedIn](linkedinicon.jpeg)]( https://www.linkedin.com/in/boydwilson/)[![Twitter](twittericon.png)](https://twitter.com/boydwilson)[![Github](githubicon.png)](https://github.com/omnibond) |
 | Brandi Kuritz | [TACC](http://www.tacc.utexas.edu/) | [bkuritz@tacc.utexas.edu](mailto:bkuritz@tacc.utexas.edu?subject=[hpchackatpearc20]) | [![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/brandi-kuritz-74a47673/) |
 | Charlie Dey | [TACC](http://www.tacc.utexas.edu/) | [charlie@tacc.utexas.edu](mailto:charlie@tacc.utexas.edu?subject=[hpchackatpearc20]) | [![LinkedIn](linkedinicon.jpeg)](https://www.linkedin.com/in/charlie-dey-0031317a/)[![Twitter](twittericon.png)](https://twitter.com/DeyCharlie) |
