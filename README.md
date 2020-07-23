@@ -22,16 +22,30 @@ _Draft Updated as of 7/15/20_
 
 | Day | Time | Activities |
 |-----------|------------------------|----------------------------|
-| Monday (7/27) | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT) |  **Kickoff Meeting** <br> - Ethics <br> - Schedule <br> - Deliverables Overview <br> - Team Virtual Background Challenge [Prize] <br> - Active Hacking Picture (Individual)  [Prize] |
-| Monday (7/27) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  Project Introductions and Goals by the teams [Prize]|
+| Monday (7/27) | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT) |  **Kickoff Meeting** <br> - Ethics <br> - Schedule <br> - Deliverables Overview <br> - Active Hacking Picture (Individual)  [Prize] |
+| Monday (7/27) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  - Project Introductions and Goals by the teams [Prize] <br> - Team Virtual Background Challenge [Prize] |
 | Tuesday (7/28) | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT) | - Status Checkpoint <br> - Active Hacking Picture (Individual)  [Prize] |
-| Tuesday (7/28) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) | - Status Checkpoint <br> - TikTok Team Handoff Video Contest [Prize] |
+| Tuesday (7/28) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) | - Status Checkpoint <br> - TBD Contest [Prize] |
 | Wednesday (7/29) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  **Final Presentations** <br> - People's Choice Award Opens |
 | Thursday (7/30) | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT) |  **Awards Ceremony**|
 
 ## Communication Platforms
 - Twitter: [twitter.com/ccloudhack](https://twitter.com/ccloudhack) or @ccloudhack
 - Slack: [cloudhpchack.slack.com](https://cloudhpchack.slack.com) 
+
+## Deliverables
+**Posted to Slack PEARC20-General Channel before Presentations)**
+_Due Wednesday 7/21 by 6:00p(EST)/5:00p(CT)/3:00p(PT)_
+_*If not posted 20pt automatic deduction from final judging score._
+
+**Github Repository Link Posted to Slack #PEARC20-General Channel** 
+- Source code
+ - Including Comments
+PDF of presentation
+ - Team members with pictures
+ - Github Link
+- README.md project description 
+
 
 ## Tutorials and Videos
 - [CloudyCluster v3 GCP Control Instance & HPC Environment Launch](https://www.youtube.com/watch?v=apTvSUq6Fe4) - https://www.youtube.com/watch?v=apTvSUq6Fe4
