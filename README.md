@@ -43,11 +43,10 @@ _Draft Updated as of 7/23/20_
 <br>_*NOTE: If not posted by due date and time 20pt automatic deduction from final judging score._
 
 **Github Repository Link Posted to Slack #PEARC20-General Channel** 
-- Source code
- - Including Comments
-PDF of presentation
- - Team members with pictures
- - Github Link
+- Source code Including Comments
+- PDF of presentation
+  - Team members with pictures
+  - Github Link
 - README.md project description 
 
 
