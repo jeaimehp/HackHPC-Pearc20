@@ -13,6 +13,7 @@ This site will contain the latest information regarding the event to be held Jul
 </p>
 
 ## Code of Conduct
+_All attendees, sponsors, partners, volunteers and staff at our hackathon are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to ensure a safe environment for everybody._
 - [https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct](https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct)
   - [Video Presentation](https://youtu.be/4P8sEZDsKaQ)
   - [Organizing Committe Contact Information](#organizers-contact-information)
