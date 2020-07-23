@@ -12,7 +12,7 @@ This site will contain the latest information regarding the event to be held Jul
   <a href="https://sciencegateways.org/">SGCI</a> 
 </p>
 
-## Schedule of events
+## Schedule of Events
 _Draft Updated as of 7/23/20_
 
 - **Mentor Pre-event Prep call** 7/21/20 @ 11:00am(EST)/10:00am(CST)/8:00am(PST)
@@ -81,7 +81,7 @@ _Draft Updated as of 7/23/20_
 | Linda Hayden | [ECSU](http://nia.ecsu.edu/) | [haydenl@mindspring.com](mailto:haydenl@mindspring.com?subject=[hpchackatpearc20]) | [![LinkedIn](linkedinicon.jpeg)]( https://www.linkedin.com/in/linda-hayden-5a8b424/)[![Twitter](twittericon.png)](https://twitter.com/lhaydenecsu)|
 
 
-### Resources
+## Resources
 - Code of Ethics: [https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct](https://sciencegateways.org/engage/hackathon/hackathon-code-of-conduct)
 - Hack HPC Site: [http://hackhpc.org](http://hackhpc.org)
 - PEARC20 HackHPC Site: [https://jeaimehp.github.io/HackHPC-Pearc20](https://jeaimehp.github.io/HackHPC-Pearc20)
