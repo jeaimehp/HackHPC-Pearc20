@@ -56,7 +56,7 @@ PDF of presentation
 - Google Cloud Platform Training 
   - [https://cloud.google.com/training](https://cloud.google.com/training)
 
-## Mentors and Projects
+## Mentor Contact Information
 
 | Name | Affiliation | Contact Information | Social Media
 |-----------------------|--------------|----------------------------|----------------------------|
