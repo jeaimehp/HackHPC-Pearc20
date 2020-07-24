@@ -114,5 +114,5 @@ _Draft Updated as of 7/23/20_
 - [covid-19.tacc.utexas.edu/projections/](https://covid-19.tacc.utexas.edu/projections/)
 - [GitHub.com](GitHub.com)
 
-[amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-PEARC20]GCP Credits Request)
+[amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-PEARC20 GCP Credits])
 [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-PEARC20]) 
