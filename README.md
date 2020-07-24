@@ -115,4 +115,4 @@ _Draft Updated as of 7/23/20_
 - [GitHub.com](GitHub.com)
 
 [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-PEARC20 GCP Credits])
-[amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-PEARC20 GCP Credits]) 
+[amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-PEARC20-GCP-Credits]) 
