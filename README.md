@@ -28,7 +28,7 @@ _Draft Updated as of 7/23/20_
   - [Meeting Slides](pdfs/Student-HackHPC-Overview.pdf)
   - [Meeting Video](https://youtu.be/x3frTEbp-ZA)
   - **Links and Resources Mentioned**
-     - For access to the _Google Cloud credits_ please contact [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[HackHPC-PEARC20]GCP Credits Request) , [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[HackHPC-PEARC20]- GCP Credits Request), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-PEARC20]- GCP Credits Request)
+     - For access to the _Google Cloud credits_ please contact [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC20]) , [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC20]), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC20])
      - [delta-topology.org](delta-topology.org)
      - [covid-19.tacc.utexas.edu/projections/](https://covid-19.tacc.utexas.edu/projections/)
      - [GitHub.com](https://github.com/)
@@ -75,7 +75,7 @@ _Draft Updated as of 7/23/20_
 - [Previous HackHPC Projects](http://hackhpc.org/pasthacks)
 - Google Cloud Platform Training
   - [https://cloud.google.com/training](https://cloud.google.com/training)
-  - For access to the Google Cloud credits please contact [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[HackHPC-PEARC20]GCP Credits Request) , [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[HackHPC-PEARC20]- GCP Credits Request), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-PEARC20]- GCP Credits Request)
+  - For access to the Google Cloud credits please contact [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC20]) , [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC20]), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC20])
 
 ## Mentor Contact Information
 
@@ -109,10 +109,7 @@ _Draft Updated as of 7/23/20_
 - PEARC20 Zoom Session Links (Hackathon): [https://www.brella.io](https://www.brella.io)
 - SGCI URL: [http://sciencegateways.org/engage/hackathon](http://sciencegateways.org/engage/hackathon)
 - Hackathon Planning Kit: [https://hackathon-planning-kit.org/](https://hackathon-planning-kit.org/)
-- For access to the Google Cloud credits please contact [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[HackHPC-PEARC20]GCP Credits Request) , [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[HackHPC-PEARC20]- GCP Credits Request), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-PEARC20]- GCP Credits Request)
+- For access to the Google Cloud credits please contact [boyd@omnibond.com](mailto:boyd@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC20]) , [Josh@omnibond.com](mailto:Josh@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC20]), or [amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-GCP-Credits-PEARC20])
 - [delta-topology.org](delta-topology.org)
 - [covid-19.tacc.utexas.edu/projections/](https://covid-19.tacc.utexas.edu/projections/)
 - [GitHub.com](GitHub.com)
-
-[amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-PEARC20 GCP Credits])
-[amycannon@omnibond.com](mailto:amycannon@omnibond.com?subject=[HackHPC-PEARC20-GCP-Credits]) 
