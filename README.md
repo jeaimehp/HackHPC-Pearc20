@@ -39,7 +39,7 @@ _Draft Updated as of 7/23/20_
 | Day | Time | Activities |
 |-----------|------------------------|----------------------------|
 | Monday (7/27) | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT) |  **Kickoff Meeting** [Slides](pdfs/HackHPC-Kickoff.pdf) <br> - Ethics <br> - Schedule <br> - Google Project Setup [Boyd Wilson](https://www.linkedin.com/in/boydwilson/)|
-| Monday (7/27) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  <br> - Team Pointers and Announcements <br> - Active Hacking Picture (Individual) [Prize] <br> - Intel Speaker [Tom Krueger](https://www.linkedin.com/in/tomkrueger1/) <br> - Project Introductions and Goals by the teams [Prize] |
+| Monday (7/27) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  - Team Pointers and Announcements <br> - Active Hacking Picture (Individual) [Prize] <br> - Intel Speaker [Tom Krueger](https://www.linkedin.com/in/tomkrueger1/) <br> - Project Introductions and Goals by the teams [Prize] |
 | Tuesday (7/28) | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT) | - Status Checkpoint <br> - Lego@HackHPC Picture (Individual)  [Prize] <br> - Cloudy Cluster Overview [Boyd Wilson](https://www.linkedin.com/in/boydwilson/)|
 | Tuesday (7/28) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) | - Status Checkpoint [Prize] <br> - Virtual Background Challenge (Individual) [Prize] |
 | Wednesday (7/29) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  **Final Presentations** <br> - People's Choice Award Opens |
