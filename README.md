@@ -38,7 +38,7 @@ _Draft Updated as of 7/23/20_
 
 | Day | Time | Activities |
 |-----------|------------------------|----------------------------|
-| Monday (7/27) | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT) |  **Kickoff Meeting** <br> - Ethics <br> - Schedule <br> - Deliverables Overview <br> - Active Hacking Picture (Individual)  [Prize] <br> - Google Project Setup [Boyd Wilson](https://www.linkedin.com/in/boydwilson/)|
+| Monday (7/27) | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT) |  **Kickoff Meeting** [Meeting Slides](pdfs/HackHPC-Kickoff.pdf) <br> - Ethics <br> - Schedule <br> - Deliverables Overview <br> - Active Hacking Picture (Individual)  [Prize] <br> - Google Project Setup [Boyd Wilson](https://www.linkedin.com/in/boydwilson/)|
 | Monday (7/27) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) |  - Project Introductions and Goals by the teams [Prize] <br> - Intel Speaker [Tom Krueger](https://www.linkedin.com/in/tomkrueger1/) <br> - Team Virtual Background Challenge [Prize] |
 | Tuesday (7/28) | 1:00p(EST)<br>12:00p(CT)<br>10:00a(PT) | - Status Checkpoint <br> - Lego@HackHPC Picture (Individual)  [Prize] <br> - Cloudy Cluster Overview [Boyd Wilson](https://www.linkedin.com/in/boydwilson/)|
 | Tuesday (7/28) | 6:00p(EST)<br>5:00p(CT)<br>3:00p(PT) | - Status Checkpoint <br> - TBD Contest [Prize] |
