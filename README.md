@@ -51,7 +51,7 @@ _Draft Updated as of 7/23/20_
 - Zoom Session Links (Hackathon): [https://www.brella.io](https://www.brella.io)
 
 ## Deliverables
-**Posted to Slack PEARC20-General Channel before Presentations**
+**Posted to Slack "#pearc20-hackhq-general" Channel before Presentations**
 <br><i><font color='red'>Due Wednesday 7/29 by 6:00p(EST)/5:00p(CT)/3:00p(PT)</font></i>
 <br>_*NOTE: If not posted by due date and time 20pt automatic deduction from final judging score._
 
