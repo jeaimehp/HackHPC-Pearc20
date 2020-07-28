@@ -64,6 +64,9 @@ _Draft Updated as of 7/23/20_
 
 
 ## Tutorials and Videos
+- [Beta Docs](beta.docs.gcp.cloudycluster.com) for CloudyCluster v3, 
+    - the image has been copied to the GCP projects that have been setup for the Hack.
+    - There are two main steps in the quick start that you need follow, the project wide keys setup and the SA (Service Account) setup by running the script in cloud shell, then move to the videos below.   Don't forget to fill out the google doc to get your team access to the GCP project.
 - CloudyCluster v3 GCP Control Instance & HPC Environment Launch
   - [https://www.youtube.com/watch?v=apTvSUq6Fe4](https://www.youtube.com/watch?v=apTvSUq6Fe4)
 - CloudyCluster v3 GCP Slurm mpi prime jobs demo
